@@ -1,0 +1,22 @@
+{
+  "name": "github_graphical_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "graphical_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabriel090/graphical_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabriel090/graphical_api/issues"
+  },
+  "homepage": "https://github.com/gabriel090/graphical_api#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
